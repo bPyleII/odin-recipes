@@ -1,0 +1,41 @@
+.homeBackground {
+    background: rgba(128,212,255, .7);
+    
+}
+
+a {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.return {
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+
+}
+
+.buttonBackground {
+    background: rgb(255,255,153);
+}
+    /*color: rgb (0,0,0);
+     */
+
+.titleFont {
+    font-family: Tahoma, Helvetica, san-serif;
+}
+
+.image {
+    height: auto;
+    width: 350px;
+}
+
+.recipeFont{
+    font-size: 22px;
+    font-family: Tahoma, Helvetica, san-serif;
+}
+
+.headingFont{
+    font-size: 30px;
+    font-family: Tahoma, Helvetica, san-serif;
+}
